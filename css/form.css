@@ -1,0 +1,254 @@
+/* -----------------
+  nav-top
+-------------------*/
+.ul-nav-2:hover {
+    color: #FFBD54;
+}
+
+.ul-nav-2:active {
+    color: #333333;
+}
+
+.smile:hover {
+    color: #FFBD54;
+}
+
+.smile:active {
+    color: #333333;
+}
+
+.ul-nav-3:hover {
+    color: #FFBD54;
+}
+
+.ul-nav-3:active {
+    color: #333333;
+}
+
+.img-logo:hover {
+    opacity: 0.8;
+}
+
+.img-logo:active {
+    opacity: 0.6;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+}
+
+.list-item {
+    border-bottom: 3px solid transparent;
+    display: inline-block;
+}
+
+.list-items:hover {
+    border-bottom: 4px solid #ffff00;
+}
+
+/* ----------------
+   btn-dark
+-------------------*/
+.btn:hover {
+    background: #FFBD54;
+}
+
+.btn:active {
+    background: #FFBD54;
+    opacity: .6;
+}
+
+/* ----------------
+     arrows
+-------------------*/
+.arrows-1:hover {
+    width: 50px;
+    height: 50px;
+    background: #FFFFFF;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.arrows-1:active {
+    opacity: .6;
+}
+
+.arrows-2:hover {
+    width: 50px;
+    height: 50px;
+    background: #FFFFFF;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.arrows-2:active {
+    opacity: .6;
+}
+
+/* ---------------
+      cards
+-----------------*/
+.cards:hover {
+    opacity: .6;
+}
+
+.cards:active {
+    opacity: .2;
+}
+
+.first:hover {
+    opacity: .6;
+}
+
+.first:active {
+    opacity: .2;
+}
+
+/* ****************
+  btn-section
+*******************/
+.btn--darks:hover {
+    background: #333333;
+    color: #FFBD54;
+}
+
+.btn--darks:active {
+    opacity: .6;
+}
+
+.btn-page:hover {
+    background: #333333;
+    color: #FFBD54;
+}
+
+.btn-page:active {
+    opacity: .6;
+    color: whitesmoke;
+}
+
+/* *****************
+    form 
+********************/
+form {
+    display: flex;
+    align-items: center;
+}
+
+.input-div {
+    width: 335px;
+    height: 50px;
+    margin-top: 32px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+.input-chesk {
+    outline: none;
+    border: none;
+    padding: 18px 147px 12px 22px;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #949494;
+    border-radius: 5px
+}
+
+.input-chesk:focus {
+    border: 2px solid #FFBD54;
+}
+
+.input-chesk:focus:invalid {
+    border: 2px solid #DC4D41;
+}
+
+/* *******************
+   section-5-cards
+**********************/
+.section-5-cards:hover {
+    box-shadow: -12px 11px 9px rgba(57, 57, 57, 0.25);
+}
+
+.section-5-cards:active {
+    box-shadow: -17px 15px 11px rgba(99, 99, 99, 0.50);
+}
+
+/* *******************
+    section-6-form
+**********************/
+.form-number {
+    display: block;
+}
+
+.input-name {
+    border: none;
+    border-radius: 0;
+    width: 375px;
+    height: 50px;
+    outline: none;
+}
+
+.input-name:focus {
+    border: 2px solid #DC4D41;
+}
+
+.name-email:focus:invalid {
+    border: 2px solid #DC4D41;
+}
+
+.name-email:focus {
+    border: 2px solid #DC4D41;
+}
+
+.name-email:focus:invalid {
+    border: 2px solid #DC4D41;
+}
+
+.input-text:focus {
+    border: 2px solid #DC4D41;
+}
+
+.input-text:focus:invalid {
+    border: 2px solid #DC4D41;
+}
+
+.name-email {
+    border: none;
+    border-radius: 0;
+    width: 375px;
+    height: 50px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+    outline: none;
+}
+
+.input-text {
+    border: none;
+    outline: none;
+    border-radius: 0;
+    width: 375px;
+    height: 165px;
+    padding: 17px 103px 86px 22px;
+}
+
+.last-btns {
+    width: 226px;
+    height: 50px;
+    background: #FFBD54;
+    border-radius: 0px;
+    padding: 15px 50px;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.last-btn {
+    text-decoration: none;
+    color: #FFFFFF;
+    border-radius: 0px;
+    list-style: none;
+}
